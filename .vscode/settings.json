@@ -4,6 +4,6 @@
         "plaintext": false,
         "markdown": true,
         "scminput": false,
-        "rust": true
+        "rust": false
     }
 }
